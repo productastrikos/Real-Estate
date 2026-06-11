@@ -1,0 +1,2 @@
+SiteCode,SiteName,Latitude,Longitude,TotalAcreage,ZonedUse,Region,FloodZone,GridAvailabilityPct,GridCapacityMW,WaterPressurePsi,FiberPresent,RailScore,RailAccess,HighwayAccess,SolarScore,ESGScore,InvestmentM,ROIPct,EstimatedCapexM,LandAcquisitionCostM,PermittingMonths,ConstructionMonths,OverallSiteScore
+RNT-001,Renton Advanced Manufacturing Park,47.4829,-122.2171,285,EV Manufacturing,King County WA,Zone X,91,480,70,Yes,82,BNSF East Valley Connector,Excellent – SR-167 / I-405,68,88,124,15,310,48,18,38,90

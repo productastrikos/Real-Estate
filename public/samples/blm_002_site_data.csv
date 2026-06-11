@@ -1,0 +1,2 @@
+SiteCode,SiteName,Latitude,Longitude,TotalAcreage,ZonedUse,Region,FloodZone,GridAvailabilityPct,GridCapacityMW,WaterPressurePsi,FiberPresent,RailScore,RailAccess,HighwayAccess,SolarScore,ESGScore,InvestmentM,ROIPct,EstimatedCapexM,LandAcquisitionCostM,PermittingMonths,ConstructionMonths,OverallSiteScore
+BLM-002,Bellingham Aerospace Hub,48.7519,-122.4787,380,Aerospace Manufacturing,Whatcom County WA,Zone X,86,420,72,Yes,71,BNSF Bellingham Yard,Good – I-5 at 2.8 mi,55,85,108,13,280,42,20,40,86

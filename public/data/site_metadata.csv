@@ -1,0 +1,5 @@
+﻿site,name,subtitle,faaNote,dirLabel,centerLat,centerLon,type,kpi_area,kpi_power,kpi_workers,kpi_capex,kpi_readiness
+tacoma,Boeing South Tacoma Manufacturing Hub,320 ac - Port of Tacoma Terminal 7 - BNSF Mainline - PSE 115kV - SR-167,,PORT OF TACOMA,47.133226,-122.512098,aerospace,320 ac,PSE 115kV,2400,$342M,87
+everett,Boeing Everett Future Aerospace Campus,480 ac - Paine Field (KPAE) Adjacent - BPA 500kV - Boeing 40-202 Complex - FAA Class D,FAA Class D Airspace - 150 ft height limit,PAINE FIELD (KPAE),47.959133,-122.153339,aerospace,480 ac,BPA 500kV,3800,$558M,91
+spokane,Boeing Spokane Fabrication Center,260 ac - BNSF Spokane Yard - Avista 230kV - I-90 Exit 291B,,I-90 EXIT 291B,47.637658,-117.450053,logistics,260 ac,Avista 230kV,1800,$176M,83
+yakima,Boeing Yakima Clean Energy Manufacturing Campus,180 ac - 300+ Solar Days/yr - 28MW Solar - US-97,,US-97 NORTH,46.583069,-120.585194,energy,180 ac,PacifiCorp 115kV,1100,$128M,79

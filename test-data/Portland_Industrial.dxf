@@ -1,0 +1,224 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LAYER
+  0
+LAYER
+  2
+A-SITE-BNDR
+ 70
+0
+ 62
+7
+  6
+Continuous
+  0
+LAYER
+  2
+E-UTIL-POWR
+ 70
+0
+ 62
+7
+  6
+Continuous
+  0
+LAYER
+  2
+P-UTIL-WATR
+ 70
+0
+ 62
+7
+  6
+Continuous
+  0
+LAYER
+  2
+T-RAIL
+ 70
+0
+ 62
+7
+  6
+Continuous
+  0
+LAYER
+  2
+C-ROAD-DRWY
+ 70
+0
+ 62
+7
+  6
+Continuous
+  0
+LAYER
+  2
+A-BLDG-PROD
+ 70
+0
+ 62
+7
+  6
+Continuous
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  8
+A-SITE-BNDR
+ 90
+5
+ 70
+1
+ 10
+0.000
+ 20
+0.000
+ 10
+4000.000
+ 20
+0.000
+ 10
+4000.000
+ 20
+3480.000
+ 10
+0.000
+ 20
+3480.000
+ 10
+0.000
+ 20
+0.000
+  0
+LINE
+  8
+E-UTIL-POWR
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 11
+2000.0
+ 21
+1740.0
+ 31
+0.0
+  0
+LINE
+  8
+P-UTIL-WATR
+ 10
+400.0
+ 20
+1740.0
+ 30
+0.0
+ 11
+3600.0
+ 21
+1740.0
+ 31
+0.0
+  0
+LINE
+  8
+T-RAIL
+ 10
+0.0
+ 20
+696.0
+ 30
+0.0
+ 11
+4000.0
+ 21
+696.0
+ 31
+0.0
+  0
+LINE
+  8
+C-ROAD-DRWY
+ 10
+1600.0
+ 20
+0.0
+ 30
+0.0
+ 11
+1600.0
+ 21
+1044.0
+ 31
+0.0
+  0
+LWPOLYLINE
+  8
+A-BLDG-PROD
+ 90
+5
+ 70
+1
+ 10
+600.00
+ 20
+870.00
+ 10
+1800.00
+ 20
+870.00
+ 10
+1800.00
+ 20
+1740.00
+ 10
+600.00
+ 20
+1740.00
+ 10
+600.00
+ 20
+870.00
+  0
+TEXT
+  8
+A-SITE-BNDR
+ 10
+2000.0
+ 20
+1740.0
+ 30
+0.0
+ 40
+80.0
+  1
+Portland Industrial Zone
+  0
+ENDSEC
+  0
+EOF

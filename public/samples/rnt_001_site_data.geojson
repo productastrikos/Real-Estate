@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-122.2252, 47.4860],
+          [-122.2175, 47.4875],
+          [-122.2094, 47.4873],
+          [-122.2082, 47.4851],
+          [-122.2080, 47.4825],
+          [-122.2091, 47.4800],
+          [-122.2122, 47.4784],
+          [-122.2175, 47.4780],
+          [-122.2238, 47.4787],
+          [-122.2262, 47.4812],
+          [-122.2258, 47.4842],
+          [-122.2252, 47.4860]
+        ]]
+      },
+      "properties": {
+        "SiteCode": "RNT-001",
+        "SiteName": "Renton Advanced Manufacturing Park",
+        "Latitude": 47.4829,
+        "Longitude": -122.2171,
+        "TotalAcreage": 285,
+        "ZonedUse": "EV Manufacturing",
+        "Region": "Seattle Metro",
+        "FloodZone": "Zone X",
+        "GridAvailabilityPct": 91,
+        "GridCapacityMW": 480,
+        "WaterPressurePsi": 70,
+        "FiberPresent": "Yes",
+        "RailScore": 82,
+        "RailAccess": "Good",
+        "HighwayAccess": "Excellent",
+        "SolarScore": 68,
+        "ESGScore": 88,
+        "InvestmentM": 124,
+        "ROIPct": 15,
+        "EstimatedCapexM": 310,
+        "LandAcquisitionCostM": 48,
+        "PermittingMonths": 18,
+        "ConstructionMonths": 38,
+        "OverallSiteScore": 90
+      }
+    }
+  ]
+}
