@@ -3,7 +3,7 @@ import { useAuth } from "../../context/AuthContext.jsx";
 import { Ico } from "../icons/Icons.jsx";
 
 const NAV_ITEMS = [
-  { id: "global", label: "Real Estate Command Center", icon: "globe", page: 1, badge: null },
+  { id: "global", label: "Command Center", icon: "globe", page: 1, badge: null },
   { id: "environmental", label: "Site Environmental", icon: "leaf", page: 2, badge: null },
   // { id: "feasibility", label: "Site Feasibility Twin", icon: "layers", page: 3, badge: null },
   { id: "twin", label: "Blueprint Intelligence", icon: "building", page: 4, badge: null },
