@@ -106,7 +106,7 @@ export default function Header({ collapsed, onToggleCollapse, theme, onToggleThe
       {/* Page breadcrumb */}
       <div style={{ display: "flex", flexDirection: "column", gap: 1, marginRight: 8 }}>
         <span className="page-title" style={{ fontSize: 14, fontWeight: 600 }}>
-          Real Estate Strategy Planning
+          Real Estate Scenario Planning
         </span>
         {/* <span className="page-subtitle">Washington State Operations</span> */}
       </div>

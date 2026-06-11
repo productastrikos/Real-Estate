@@ -244,7 +244,7 @@ export default function GlobalIntelligence() {
       {/* Page header */}
       <div className="page-header">
         <div className="page-header__left">
-          <h1 className="page-title">Real Estate Strategy Intelligence</h1>
+          <h1 className="page-title">Real Estate Scenario Planning Intelligence</h1>
           <p className="page-subtitle">
             Site Selection · Washington State ·{" "}
             <span style={{ color: "var(--ds-success)", fontWeight: 500 }}>
