@@ -887,7 +887,6 @@ export default function GISMap({ filters, onSiteSelect, selectedSiteId: selected
         ))}
       </div>
 
-      {/* ── LEGEND ───────────────────────────────────────── */}
       {/* <div
         style={{
           position: "absolute",
